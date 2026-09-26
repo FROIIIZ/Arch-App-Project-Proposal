@@ -5,12 +5,12 @@ Git
 
 **Clone the repository:**
 ```
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/FROIIIZ/Arch-App-Project-Proposal
 ```
 **Enter the project folder:**
 
 ```
-cd YOUR_REPOSITORY_NAME
+cd Arch-App-Project-Proposal
 ```
 **Compile**
 
